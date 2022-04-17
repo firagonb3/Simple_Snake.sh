@@ -1,8 +1,8 @@
 Un juego de Snake simple para terminal bash
 
-Descargar
+<h4>Descargar</h4>
 
-git clone
+git clone https://github.com/firagonb3/Simple_Snake.sh.git
 
 Excutar
 
