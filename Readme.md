@@ -4,7 +4,7 @@ Un juego de Snake simple para terminal bash
 
 git clone https://github.com/firagonb3/Simple_Snake.sh.git
 
-<h3>Excutar</h3>
+<h3>Ejecutar</h3>
 <ol>
   <li>cd Simple_Snake.sh</li>
   <li>chmod +x Snake.sh</li>
